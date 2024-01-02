@@ -36,6 +36,14 @@
 			<HintPath>$(SolutionDir)lib\Owlcat.Runtime.Core_public.dll</HintPath>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="Owlcat.Runtime.Core">
+			<HintPath>$(SolutionDir)lib\Kingmaker.ElementsSystem.Interfaces_public.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="Owlcat.Runtime.Core">
+			<HintPath>$(SolutionDir)lib\Kingmaker.Blueprints.JsonSystem.Hepers_public.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
 		<Reference Include="Owlcat.Runtime.UI">
 			<HintPath>$(SolutionDir)lib\Owlcat.Runtime.UI_public.dll</HintPath>
 			<Private>False</Private>
@@ -83,6 +91,8 @@
 	</ItemGroup>
 	<ItemGroup>
 		<PubliciseInputAssemblies Include="$(RogueTraderInstallDir)\WH40KRT_Data\Managed\Code.dll" />
+		<PubliciseInputAssemblies Include="$(RogueTraderInstallDir)\WH40KRT_Data\Managed\Kingmaker.ElementsSystem.Interfaces.dll" />
+		<PubliciseInputAssemblies Include="$(RogueTraderInstallDir)\WH40KRT_Data\Managed\Kingmaker.Blueprints.JsonSystem.Hepers.dll" />
 		<PubliciseInputAssemblies Include="$(RogueTraderInstallDir)\WH40KRT_Data\Managed\RogueTrader.GameCore.dll" />
 		<PubliciseInputAssemblies Include="$(RogueTraderData)\UnityModManager\UnityModManager.dll" />
 		<PubliciseInputAssemblies Include="$(RogueTraderInstallDir)\WH40KRT_Data\Managed\RogueTrader.SharedTypes.dll" />

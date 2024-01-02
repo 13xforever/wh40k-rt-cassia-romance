@@ -18,8 +18,8 @@ static class Main
         log = modEntry.Logger;
 #if DEBUG
         modEntry.OnUnload = OnUnload;
-#endif
         modEntry.OnToggle = OnToggle; 
+#endif
         modEntry.OnGUI = OnGUI;
         HarmonyInstance = new(modEntry.Info.Id);
         HarmonyInstance.PatchAll(Assembly.GetExecutingAssembly());
@@ -34,7 +34,6 @@ static class Main
 
     static void OnGUI(UnityModManager.ModEntry modEntry)
     {
-
     }
 
 #if DEBUG
