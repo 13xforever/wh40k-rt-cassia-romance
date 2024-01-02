@@ -8,5 +8,5 @@
   "AssemblyName": "RT.UMM.CassiaRomanceF.dll",
   "EntryMethod": "RT.UMM.CassiaRomanceF.Main.Load",
   "HomePage": "",
-  "Repository": ""
+  "Repository": "https://github.com/13xforever/wh40k-rt-cassia-romance"
 }
