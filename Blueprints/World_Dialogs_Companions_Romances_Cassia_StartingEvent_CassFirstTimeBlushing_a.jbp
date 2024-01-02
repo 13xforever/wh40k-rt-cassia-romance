@@ -1,0 +1,83 @@
+{
+  "AssetId": "95b0ba7d08e34f6c895b2fbeb53ea404",
+  "Data": {
+    "$type": "df78945bb9f434e40b897758499cb714, BlueprintAnswer",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "ParentAsset": "93d2209f94d742498e3deb49d8565a37",
+    "SoulMarkRequirement": {
+      "Direction": "None",
+      "Value": 0,
+      "Description": {
+        "m_Key": "",
+        "m_OwnerString": "",
+        "m_OwnerPropertyPath": "",
+        "m_JsonPath": "",
+        "Shared": null
+      }
+    },
+    "Text": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "c2a28537528d332499fd19957f879d23",
+        "stringkey": "df6fd1de-8718-42bd-b7ae-c01e61c9f6c2"
+      }
+    },
+    "NextCue": {
+      "Cues": [
+        "!bp_7751e06f6d2449f9ad02426ccd472b9b"
+      ],
+      "Strategy": "First"
+    },
+    "ShowOnce": false,
+    "ShowOnceCurrentDialog": false,
+    "ShowCheck": {
+      "Type": "Unknown",
+      "DC": 0
+    },
+    "DebugMode": false,
+    "CharacterSelection": {
+      "SelectionType": "Clear",
+      "ComparisonStats": []
+    },
+    "ShowConditions": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "17b2f07a8f4a08441b95a6f177937451, PcMale",
+          "name": "$PcMale$9733c499042d40e080c2c7f19a0d3bdc",
+          "Not": false
+        }
+      ]
+    },
+    "SelectConditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "RequireValidCue": false,
+    "AddToHistory": true,
+    "OnSelect": {
+      "Actions": []
+    },
+    "FakeChecks": [],
+    "SoulMarkShift": {
+      "Direction": "Faith",
+      "Value": 0,
+      "Description": {
+        "m_Key": "",
+        "m_OwnerString": "",
+        "m_OwnerPropertyPath": "",
+        "m_JsonPath": "",
+        "Shared": null
+      }
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

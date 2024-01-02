@@ -1,0 +1,70 @@
+{
+  "AssetId": "85b651edb4f74381bbe762999273c6ec",
+  "Data": {
+    "$type": "df78945bb9f434e40b897758499cb714, BlueprintAnswer",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "ParentAsset": "93d2209f94d742498e3deb49d8565a37",
+    "AlignmentRequirement": "None",
+    "Text": {
+      "m_Key": "47aa8b7f-b358-48a1-b6af-7a51af2c67b0",
+      "m_OwnerString": "85b651edb4f74381bbe762999273c6ec",
+      "m_OwnerPropertyPath": "Text",
+      "m_JsonPath": "Strings/Mechanics/Blueprints\\World\\Dialogs\\Companions\\Romances\\Cassia\\StartingEvent\\Answer_0017_Text.json",
+      "Shared": null
+    },
+    "NextCue": {
+      "Cues": [
+        "!bp_1e602916379145dfab0e2cb183f240be"
+      ],
+      "Strategy": "First"
+    },
+    "ShowOnce": false,
+    "ShowOnceCurrentDialog": false,
+    "ShowCheck": {
+      "Type": "Unknown",
+      "DC": 0
+    },
+    "DebugMode": false,
+    "CharacterSelection": {
+      "SelectionType": "Clear",
+      "ComparisonStats": []
+    },
+    "ShowConditions": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "17b2f07a8f4a08441b95a6f177937451, PcMale",
+          "name": "$PcMale$ff4edc43-bf6f-499e-87c6-aff6c1d1d13e",
+          "Not": false
+        }
+      ]
+    },
+    "SelectConditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "RequireValidCue": false,
+    "AddToHistory": true,
+    "OnSelect": {
+      "Actions": []
+    },
+    "FakeChecks": [],
+    "SoulMarkShift": {
+      "Direction": "Faith",
+      "Value": 0,
+      "Description": {
+        "m_Key": "",
+        "m_OwnerString": "",
+        "m_OwnerPropertyPath": "",
+        "m_JsonPath": "",
+        "Shared": null
+      }
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

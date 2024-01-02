@@ -1,0 +1,12 @@
+﻿{
+  "Id": "RT.UMM.CassiaRomanceF",
+  "DisplayName": "Cassia Romance for Female Player",
+  "Author": "13xforever",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.25.0",
+  "Requirements": [],
+  "AssemblyName": "RT.UMM.CassiaRomanceF.dll",
+  "EntryMethod": "RT.UMM.CassiaRomanceF.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}

@@ -1,0 +1,67 @@
+{
+  "AssetId": "588a3c2e96c6403ca2c7104949b066e4",
+  "Data": {
+    "$type": "8eee9d45ddcfa614d99610c1892993e3, BlueprintCue",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "если РТ мужчина + романс ?",
+    "ParentAsset": "861c409dd30c468db6424f90934a71a8",
+    "ShowOnce": false,
+    "ShowOnceCurrentDialog": false,
+    "Conditions": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "17b2f07a8f4a08441b95a6f177937451, PcMale",
+          "name": "$PcMale$80c321dd-05ce-4c39-80d9-f936aa9c3081",
+          "Not": false
+        }
+      ]
+    },
+    "Text": {
+      "m_Key": "5a2a73d8-8530-4821-8e07-941588bf51e1",
+      "m_OwnerString": "588a3c2e96c6403ca2c7104949b066e4",
+      "m_OwnerPropertyPath": "Text",
+      "m_JsonPath": "Strings/Mechanics/Blueprints\\World\\Dialogs\\Companions\\CompanionDialogues\\Navigator\\Cue_47_Text.json",
+      "Shared": null
+    },
+    "Speaker": {
+      "m_Blueprint": null,
+      "MoveCamera": true,
+      "NotRevealInFoW": false,
+      "NoSpeaker": false,
+      "m_SpeakerPortrait": null
+    },
+    "TurnSpeaker": true,
+    "Animation": "None",
+    "m_Listener": null,
+    "OnShow": {
+      "Actions": []
+    },
+    "OnStop": {
+      "Actions": []
+    },
+    "AlignmentShift": {
+      "Direction": "TrueNeutral",
+      "Value": 0,
+      "Description": {
+        "m_Key": "",
+        "m_OwnerString": "",
+        "m_OwnerPropertyPath": "",
+        "m_JsonPath": "",
+        "Shared": null
+      }
+    },
+    "Answers": [
+      "!bp_f8dbe7788e604c24937bdb3da340c723"
+    ],
+    "Continue": {
+      "Cues": [],
+      "Strategy": "First"
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}
