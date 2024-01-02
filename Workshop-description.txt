@@ -1,2 +1,6 @@
 [h1]Cassia Romance for Female Players[/h1]
-Removes gender checks for Cassia romance branches in dialogs
+Removes gender checks for Cassia romance branches in dialogs.
+
+Depending on Steam Workshop support status, you may need to manually run the Steam Workshop tool available in the Rogue Trader install location.
+
+Remember that all mods disable achievements, unless you have a mod to enable them again.
