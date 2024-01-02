@@ -1,4 +1,4 @@
-Cassia Romance for Female Players
+Cassia romance for female players
 =================================
 This is a Warhammer 40,000: Rogue Trader mod to remove gender checks for Cassia romance dialog branches.
 Some choices and replies are locked behind a gender lock for narrative reasons.
@@ -13,3 +13,8 @@ How to install
 Unpack zip to `%UserProfile%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\UnityModManager` (there should be new folder `RT.UMM.CassiaRomanceF` there with mod files inside).
 
 It should be enabled by default, but you can check the status in UMM (<kbd>ctrl</kbd>+<kbd>F10</kbd> in game). 
+
+Mod mirrors
+===========
+* [NexusMods](https://www.nexusmods.com/warhammer40kroguetrader/mods/89)
+* [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3129776616)
