@@ -29,7 +29,7 @@ internal static class CassiaRomancePatch
         "c292b399f4344a639ccb4df9ba66329e", // Blueprints\World\Dialogs\Companions\Romances\Cassia\StartingEvent\Answer_8.jbp
         "56bbf1612e05489ba44bb4a52718e222", // Blueprints\World\Dialogs\Companions\Romances\Cassia\StartingEvent\Answer_10.jbp
         "85b651edb4f74381bbe762999273c6ec", // Blueprints\World\Dialogs\Companions\Romances\Cassia\StartingEvent\Answer_0017.jbp
-        "95b0ba7d08e34f6c895b2fbeb53ea404" // Blueprints\World\Dialogs\Companions\Romances\Cassia\StartingEvent\CassFirstTimeBlushing_a.jbp
+        "95b0ba7d08e34f6c895b2fbeb53ea404", // Blueprints\World\Dialogs\Companions\Romances\Cassia\StartingEvent\CassFirstTimeBlushing_a.jbp
     ];
     
     static bool Prefix(ConditionsChecker __instance, IConditionDebugContext debugContext)
